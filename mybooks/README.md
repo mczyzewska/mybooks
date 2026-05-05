@@ -142,7 +142,3 @@ Zeskanuj kod QR aplikacją **Expo Go** na telefonie (Android lub iOS). Telefon i
 | created_at | TIMESTAMPTZ | Data obserwowania |
 
 ---
-
-## Wkład własny
-
-Pull requesty mile widziane. Przed większymi zmianami otwórz issue.
